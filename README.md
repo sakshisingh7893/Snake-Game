@@ -1,4 +1,5 @@
 # Snake-Game
+
 Game Description:
 
 Press w/a/s/d to control the snake. If the snake eats an apple, it gains 100 scores. It the snake hits wall or itself, and has no extra lives, it dies.
